@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+d:\ис1-21_2019\проект для сортировки массива\сортировка вставками\consoleapplication1\consoleapplication1\consoleapplication1.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\ИС1-21_2019\Проект для сортировки массива\Сортировка вставками\ConsoleApplication1\Debug\ConsoleApplication1.exe
